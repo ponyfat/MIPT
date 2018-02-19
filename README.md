@@ -1,2 +1,2 @@
 # MIPT
-my university hometasks
+Some of my university hometasks.
